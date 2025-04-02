@@ -4,6 +4,10 @@
 이 프로그램은 실시간 날씨를 기반으로 빨래 지수와 추천 옷차림, 세탁 지식 등을 제공하는  
 Windows용 데스크탑 애플리케이션입니다.
 
+### ✅ 설치 파일 다운로드
+
+👉 [설치 파일](https://drive.google.com/file/d/1buAxfrwRYs28pZ3KdoZM3ubuyYN9SR4s/view?usp=sharing)에서 `Setup.exe` 다운로드
+
 ---
 
 ## ✨ 주요 기능
