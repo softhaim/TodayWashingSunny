@@ -86,7 +86,7 @@ Windows용 데스크탑 애플리케이션입니다.
 
 ## 🛠 개발자
 
-- 👤 오정환 | Jeonju, Korea
+- 👤 오정환 | JeonBuk National University, Korea
 - ✉️ softhaim@gmail.com
 
 ---
